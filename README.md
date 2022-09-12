@@ -3,6 +3,7 @@ API Automation Using Rest Assured
 
 How to Execute :
 - Download Repository
+- Remove the branch name(-master) from pojrct folder 
 - Open project on eclipse as a existing maven project
 - Run AppTest Class as a TestNG Class
 
